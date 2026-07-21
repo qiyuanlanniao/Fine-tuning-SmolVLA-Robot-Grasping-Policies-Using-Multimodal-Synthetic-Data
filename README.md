@@ -1,6 +1,6 @@
 [English](README.md) | [中文](README-cn.md)
 
-# Robot Synthetic Data Generation Workshop
+# Fine-tuning SmolVLA Robot Grasping Policies Using Multimodal Synthetic Data
 
 End-to-end pipeline for robot manipulation on **AMD GPUs (ROCm)**: **Synthetic Data Generation → VLA Training → Simulation Evaluation**.
 
