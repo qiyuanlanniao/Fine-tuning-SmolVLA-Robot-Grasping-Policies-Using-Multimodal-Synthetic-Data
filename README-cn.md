@@ -1,6 +1,6 @@
 [English](README.md) | [中文](README-cn.md)
 
-# 机器人合成数据生成 Workshop
+# 基于多模态合成数据的SmolVLA机器人抓取策略微调
 
 基于 **AMD GPU (ROCm)** 的机器人操作全流程：**合成数据生成 → VLA 训练 → 仿真评估**。
 
