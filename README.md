@@ -21,7 +21,7 @@ Verified on **CDNA3 (MI300/MI325 series)**, **RDNA4 (Radeon AI PRO R9700)**, and
 
 ---
 
-## Workshop Routing — Two Paths
+## Two Paths
 
 | | Path A: CDNA3 (MI300/MI325) | Path B: RDNA4/3.5 (R9700 / W7900) |
 |---|---|---|
